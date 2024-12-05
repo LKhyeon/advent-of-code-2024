@@ -1,5 +1,4 @@
 from pathlib import Path
-import re
 
 FILE_PATH = Path(__file__).parent / './test_input.txt'
 
